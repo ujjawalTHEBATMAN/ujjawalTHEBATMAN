@@ -3,12 +3,6 @@
 
 👋 Hi, I’m **@ujjawalTHEBATMAN**  
 👀 I’m passionate about **Java** and **Spring Framework**  
-🌱 Currently learning **Java Spring** and exploring its capabilities!  
-💞️ I’m looking to collaborate on exciting **Java Spring** projects.  
-📫 Reach out to me via email: **ujjawalvishwakarma266@gmail.com**  
-😄 Pronouns: **Ujju**  
-⚡ Fun fact: *I am an object waiting to be removed by the Garbage Collector.*  
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-vishwakarma-aba5b6303/)
