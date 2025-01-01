@@ -18,6 +18,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ujjawalTHEBATMAN&icon=10&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ujjawal&label=Profile%20Views%20&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
