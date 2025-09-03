@@ -45,7 +45,7 @@
   <a href="https://github.com/ujjawalTHEBATMAN/Student-Help-Center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjawalTHEBATMAN&repo=Student-Help-Center&theme=tokyonight" alt="Student Help Center Project"/>
   </a>
-  <a href="[https://github.com/ujjawalTHEBATMAN/Your-Next-Awesome-Project](https://github.com/ujjawalTHEBATMAN/appno32)">
+  <a href="https://github.com/ujjawalTHEBATMAN/appno32">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjawalTHEBATMAN&repo=Your-Next-Awesome-Project&theme=tokyonight" alt="Another Awesome Project"/>
   </a>
 </p>
