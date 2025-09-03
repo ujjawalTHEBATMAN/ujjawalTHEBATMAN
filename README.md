@@ -98,3 +98,86 @@
 <details>
 <summary>🔎 Click here to see the GitHub Metrics Workflow</summary>
 
+  
+🚀 My Star Projects
+<p align="center">A few of my proudest creations. Feel free to check them out!</p>
+<table align="center">
+<tr>
+<td width="500">
+<a href="https://github.com/ujjawalTHEBATMAN/Student-Help-Center" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DujjawalTHEBATMAN%26repo%3DStudent-Help-Center%26theme%3Dtokyonight%26border_color%3D0ED2F7" alt="Student Help Center Project"/>
+</a>
+<p align="center">
+<b>A full-stack web application built with Spring Boot and Thymeleaf to facilitate a collaborative learning environment for students.</b>
+</p>
+</td>
+<td width="500">
+<a href="https://github.com/ujjawalTHEBATMAN/appno32" target="_blank">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DujjawalTHEBATMAN%26repo%3Dappno32%26theme%3Dtokyonight%26border_color%3D0ED2F7" alt="AppNo32 Project"/>
+</a>
+<p align="center">
+<b>A sample microservices architecture demonstrating service discovery, fault tolerance, and asynchronous communication using Spring Cloud and Kafka.</b>
+</p>
+</td>
+</tr>
+</table>
+
+🧠 Advanced Math Corner
+<div align="center">
+<p>Just for fun, here are some of the most elegant and powerful equations in science and mathematics.</p>
+<table>
+<tr>
+<td align="center">
+<b>Euler's Identity</b><br/>
+<img src="https://www.google.com/search?q=https://render.codecogs.com/svg.latex%3Fe^{i\pi}%2B1=0" alt="Euler's Identity"/>
+</td>
+<td align="center">
+<b>Navier-Stokes Equation</b><br/>
+<img src="https://www.google.com/search?q=https://render.codecogs.com/svg.latex?\rho\left(\frac{\partial\mathbf{v}}{\partial%20t}%2B\mathbf{v}\cdot\nabla\mathbf{v}\right)=-\nabla%20p%2B\nabla\cdot\mathbf{T}%2B\mathbf{f}" alt="Navier-Stokes Equation"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>Maxwell's Equations (Differential Form)</b><br/>
+<img src="https://www.google.com/search?q=https://render.codecogs.com/svg.latex?\begin{aligned}\nabla\cdot\mathbf{E}&=\frac{\rho}{\varepsilon_0}\\nabla\cdot\mathbf{B}&=0\\nabla\times\mathbf{E}&=-\frac{\partial\mathbf{B}}{\partial%20t}\\nabla\times\mathbf{B}&=\mu_0\left(\mathbf{J}%2B\varepsilon_0\frac{\partial\mathbf{E}}{\partial%20t}\right)\end{aligned}" alt="Maxwell's Equations"/>
+</td>
+<td align="center">
+<b>Schrödinger Equation (Time-Dependent)</b><br/>
+<img src="https://www.google.com/search?q=https://render.codecogs.com/svg.latex%3Fi\hbar\frac{\partial}{\partial%20t}\Psi(\mathbf{r},t)=\left[-\frac{\hbar^2}{2m}\nabla^2%2BV(\mathbf{r},t)\right]\Psi(\mathbf{r},t)" alt="Schrodinger Equation"/>
+</td>
+</tr>
+</table>
+</div>
+
+
+<details>
+<summary>📰 Click here to see the Blog Post Workflow</summary>
+</details>
+
+📊 My GitHub Stats & Trophies
+<div align="center">
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br/>
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DujjawalTHEBATMAN%26theme%3Dtokyonight%26no-frame%3Dfalse%26no-bg%3Dtrue%26margin-w%3D4" alt="Ujjawal's GitHub Trophies" />
+</details>
+<br/>
+<details>
+<summary>🔥 Streaks & Stats</summary>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ujjawalTHEBATMAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Ujjawal's GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalTHEBATMAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ujjawal's Top Languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=ujjawalTHEBATMAN&theme=tokyonight&hide_border=false" alt="Ujjawal's GitHub Streak" />
+</details>
+</div>
+
+🐍 My Contribution Graph
+<div align="center">
+<img src="https://raw.githubusercontent.com/ujjawalTHEBATMAN/ujjawalTHEBATMAN/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:B2FEFA,100:0ED2F7%26height%3D150%26section%3Dfooter%26text%3DThanks%2520for%2520visiting!%26fontSize%3D30%26fontColor%3Dffffff" alt="Footer Banner"/>
+</div>
