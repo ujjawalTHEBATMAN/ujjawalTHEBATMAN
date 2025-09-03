@@ -8,10 +8,10 @@
     <a href="https://github.com/ujjawalTHEBATMAN" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <a href="https://leetcode.com/ujjawalWvishwakarma/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode"/>
     </a>
-    <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
+    <a href="https://codeforces.com/profile/kriujjbhu" target="_blank">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
     </a>
   </div>
