@@ -8,7 +8,7 @@
     <a href="https://github.com/ujjawalTHEBATMAN" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://leetcode.com/ujjawalWvishwakarma/" target="_blank">
+    <a href="https://leetcode.com/ujjawalMvishwakarma/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode"/>
     </a>
     <a href="https://codeforces.com/profile/kriujjbhu" target="_blank">
