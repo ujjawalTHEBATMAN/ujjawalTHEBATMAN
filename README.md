@@ -2,13 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=250&section=header&text=Ujjawal%20Vishwakarma&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 
   <div>
-    <a href="https://www.linkedin.com/in/ujjawal-vishwakarma-aba5b6303/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-    &nbsp;
-    <a href="https://github.com/ujjawalTHEBATMAN" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-    &nbsp;
-    <a href="https://twitter.com/your_handle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
-    &nbsp;
-    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://skillicons.dev/icons?i=notion" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/ujjawal-vishwakarma-aba5b6303/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/ujjawalTHEBATMAN" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://leetcode.com/your_username/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode"/>
+    </a>
+    <a href="https://codeforces.com/profile/your_username" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+    </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=ujjawalTHEBATMAN&style=flat-square&color=blue" alt="Profile Visitor Counter"/>
@@ -37,11 +42,11 @@
 ### 🚀 My Projects
 
 <p align="center">
-  <a href="https://github.com/ujjawalTHEBATMAN/Your-Awesome-Project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjawalTHEBATMAN&repo=Your-Awesome-Project-1&theme=tokyonight" alt="Project 1"/>
+  <a href="https://github.com/ujjawalTHEBATMAN/Student-Help-Center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjawalTHEBATMAN&repo=Student-Help-Center&theme=tokyonight" alt="Student Help Center Project"/>
   </a>
-  <a href="https://github.com/ujjawalTHEBATMAN/Your-Awesome-Project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjawalTHEBATMAN&repo=Your-Awesome-Project-2&theme=tokyonight" alt="Project 2"/>
+  <a href="https://github.com/ujjawalTHEBATMAN/Your-Next-Awesome-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjawalTHEBATMAN&repo=Your-Next-Awesome-Project&theme=tokyonight" alt="Another Awesome Project"/>
   </a>
 </p>
 
