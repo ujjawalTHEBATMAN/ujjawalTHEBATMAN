@@ -68,11 +68,10 @@ I love building **scalable, resilient, and high-performance distributed systems*
 - System Design Principles  
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjawalTHEBATMAN&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawalTHEBATMAN&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=ujjawalTHEBATMAN&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
