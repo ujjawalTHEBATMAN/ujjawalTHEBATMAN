@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+<!-- Header Banner - FIXED VERSION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=0:8A2BE2,100:4B0082&height=280&section=header&text=Ujjawal+Vishwakarma&fontSize=70&fontColor=ffffff&animation=fadeIn,twinkling&fontAlignY=35&desc=Backend+Developer+|+Java+%26+Spring&descAlignY=51&descAlign=68" alt="Header Banner"/>
 </div>
