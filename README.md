@@ -71,7 +71,7 @@ I love building **scalable, resilient, and high-performance distributed systems*
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ujjawalTHEBATMAN&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=ujjawalTHEBATMAN&theme=tokyonight&hide_border=true" height="180px"/>
+ 
 </p>
 
 ---
