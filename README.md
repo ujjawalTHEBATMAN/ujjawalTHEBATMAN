@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ujjawal-vishwakarma-aba5b6303/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ujjawalTHEBATMAN"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/ujjawalMvishwakarma/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="mailto:ujjawal.vishwakarma.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ujjawalvishwakarma266@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ I love building **scalable, resilient, and high-performance distributed systems*
 ### 🤝 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjawal-vishwakarma-aba5b6303/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="mailto:ujjawal.vishwakarma.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+  <a href="mailto:ujjawalvishwakarma266@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
   <a href="https://github.com/ujjawalTHEBATMAN"><img src="https://img.icons8.com/color/48/github.png"/></a>
 </p>
 
