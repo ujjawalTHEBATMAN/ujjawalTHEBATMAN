@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drounded%26color%3Dauto%26gradient%3D0:8A2BE2,100:4B0082%26height%3D280%26section%3Dheader%26text%3DUjjawal%2520Vishwakarma%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DBackend%2520Developer%2520%257C%2520Java%2520%2526%2520Spring%26descAlignY%3D51%26descAlign%3D68" alt="Header Banner"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26gradient%3D0:8A2BE2,100:4B0082%26height%3D280%26section%3Dheader%26text%3DUjjawal%2520Vishwakarma%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn,twinkling%26fontAlignY%3D35%26desc%3DBackend%2520Developer%2520%257C%2520Java%2520%2526%2520Spring%26descAlignY%3D51%26descAlign%3D68" alt="Header Banner"/>
 </div>
 
 <!-- Socials and Profile Stats -->
